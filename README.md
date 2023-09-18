@@ -1,5 +1,3 @@
-Creating a README file for a Discord moderation bot developed in JavaScript using the Discord.js framework is essential to provide information and instructions for users and contributors. Below is a template for a README file tailored to your bot project:
-
 ```markdown
 # CFMNTIOE Community Bot
 
