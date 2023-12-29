@@ -3,7 +3,8 @@
 
 ## Description
 
-This Discord bot is a moderation bot built using JavaScript and the Discord.js framework. It is designed to help server administrators manage and moderate their Discord communities effectively.
+This Discord bot is a moderation bot built using JavaScript and the Discord.js framework.
+ It is designed to help server administrators manage and moderate their Discord communities effectively.
 
 ## Features
 
