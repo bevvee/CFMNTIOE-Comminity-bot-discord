@@ -47,7 +47,7 @@ It is designed to help server administrators manage and moderate their Discord c
 6. Start the bot:
 
    ```
-   node bot.js
+   node index.js
    ```
 
 ## Usage
