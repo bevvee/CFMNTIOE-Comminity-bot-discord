@@ -24,13 +24,13 @@ It is designed to help server administrators manage and moderate their Discord c
 
 1. Clone this repository:
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/discord-moderation-bot.git
    ```
 
 2. Install dependencies:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -46,7 +46,7 @@ It is designed to help server administrators manage and moderate their Discord c
 
 6. Start the bot:
 
-   ```bash
+   ```
    node bot.js
    ```
 
