@@ -1,6 +1,9 @@
 
 # CFMNTIOE Community Bot
 
+<p href="https://visitorbadge.io/status?path=https://github.com/bevvee/CFMNTIOE-Comminity-bot-discord" align=center><img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/bevvee/CFMNTIOE-Comminity-bot-discord&label=%F0%9F%A5%B3VISITORS&labelColor=%23ffff00&countColor=%23263759" /><p>
+<br />
+
 ## Description
 
 This Discord bot is a moderation bot built using JavaScript and the Discord.js framework.
